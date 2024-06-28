@@ -1,4 +1,15 @@
 {
   "type": "AppSource App",
-  "templateUrl": "https://github.com/microsoft/AL-Go-AppSource@main"
+  "templateUrl": "https://github.com/microsoft/AL-Go-AppSource@main",
+  "templateSha": "d3fa23ad4db0e18b7a5c602ab017659055ce45e2",
+  "doNotRunBcptTests": true,
+  "doNotRunTests": true,
+  "enableCodeCop": true,
+  "enableUICop": true,
+  "CurrentSchedule": "0 2 * * *",
+  "NextMinorSchedule": "0 2 * * 6",
+  "NextMajorSchedule": "0 2 * * 0",
+  "alDoc": {
+    "continuousDeployment": true
+  }  
 }
