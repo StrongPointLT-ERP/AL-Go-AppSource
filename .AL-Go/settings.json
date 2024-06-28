@@ -1,7 +1,9 @@
 {
-  "country": "us",
+  "country": "lt",
+  "doNotPublishApps": true,
+  "useCompilerFolder": true,
   "appSourceCopMandatoryAffixes": [
-    "<affix>"
+    "SPU"
   ],
   "appFolders": [],
   "testFolders": [],
