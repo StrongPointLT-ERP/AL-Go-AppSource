@@ -15,6 +15,7 @@ on:
       publisher:
         description: Publisher
         required: true
+        default: 'StrongPoint'
       idrange:
         description: ID range (from..to)
         required: true
