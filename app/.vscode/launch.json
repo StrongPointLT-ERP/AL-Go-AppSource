@@ -1,0 +1,29 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "SP_DEV cloud sandbox",
+            "request": "launch",
+            "type": "al",
+            "tenant": "a0c6ec6d-94c1-4b6e-a290-73996660e809",
+            "environmentType": "Sandbox",
+            "environmentName": "SP_DEV",
+            "breakOnError": "All",
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true
+        },
+        {
+            "name": "SP_LS_CENTRAL cloud sandbox",
+            "request": "launch",
+            "type": "al",
+            "tenant": "a0c6ec6d-94c1-4b6e-a290-73996660e809",
+            "environmentType": "Sandbox",
+            "environmentName": "SP_LS_CENTRAL",
+            "breakOnError": "All",
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true
+        }
+    ]
+}
