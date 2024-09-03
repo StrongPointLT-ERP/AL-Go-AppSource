@@ -1,7 +1,7 @@
 {
   "type": "AppSource App",
   "templateUrl": "https://github.com/microsoft/AL-Go-AppSource@main",
-  "templateSha": "173f75a74ecf7d846a89b49b57fba1e3507a5ddd",
+  "templateSha": "ffb3a6e99436caf367f72f2cf38292bd885ae337",
   "doNotRunBcptTests": true,
   "doNotRunTests": true,
   "enableCodeCop": true,
