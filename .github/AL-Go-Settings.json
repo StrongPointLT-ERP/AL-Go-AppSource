@@ -11,5 +11,8 @@
   "NextMajorSchedule": "0 2 * * 0",
   "alDoc": {
     "continuousDeployment": true
+  },
+  "DeliverToStorage": {
+    "CreateContainerIfNotExist": true
   }
 }
