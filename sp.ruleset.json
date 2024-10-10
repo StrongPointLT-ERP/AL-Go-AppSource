@@ -1,0 +1,35 @@
+{
+    "name": "sp ruleset",
+    "rules": [
+        {
+            "id": "AL0468",
+            "action": "Error",
+            "justification": "Make rule action as Error instead of Warning. Length of the table field name X must not exceed 30 characters."
+        },
+        {
+            "id": "AS0084",
+            "action": "None",
+            "justification": "Disable rule AS0084. We are using our custom range"
+        },
+        {
+            "id": "AA0218",
+            "action": "Error",
+            "justification": "Make rule action as Error instead of Warning. ToolTip property for page fields must be mandatory."
+        },
+        {
+            "id": "LC0010",
+            "action": "Info",
+            "justification": "Disable rule LC0010. Cyclomatic complexity warning changed to info."
+        },
+        {
+            "id": "LC0064",
+            "action": "None",
+            "justification": "Make rule action as None instead of Info. Suggests moving ToolTips to table, but does not show in client if ToolTip missing in page. Might be a bug."
+        },
+        {
+            "id": "LC0036",
+            "action": "None",
+            "justification": "Make rule action as None instead of Info. ToolTip must start with the verb Specifies is disabled."
+        }
+    ]
+}
