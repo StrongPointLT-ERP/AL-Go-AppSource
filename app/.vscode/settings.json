@@ -7,5 +7,5 @@
     ],
     "al.enableCodeAnalysis": true,
     "al.backgroundCodeAnalysis": true,
-    "al.ruleSetPath": "sp.ruleset.json"
+    "al.ruleSetPath": "../sp.ruleset.json"
 }
