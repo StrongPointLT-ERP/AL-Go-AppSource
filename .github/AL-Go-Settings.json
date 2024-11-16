@@ -1,8 +1,8 @@
 {
   "type": "AppSource App",
   "templateUrl": "https://github.com/microsoft/AL-Go-AppSource@main",
-  "templateSha": "ffb3a6e99436caf367f72f2cf38292bd885ae337",
-  "PartnerTelemetryConnectionString":  "InstrumentationKey=5400e864-5abd-496c-837c-5fbea9914cb9;IngestionEndpoint=https://polandcentral-0.in.applicationinsights.azure.com/;LiveEndpoint=https://polandcentral.livediagnostics.monitor.azure.com/;ApplicationId=ccc6d211-3dd5-4ad1-8bec-db44e3dd9499",
+  "templateSha": "8d285b61b93664773272a886ffd0ba0e6da28846",
+  "PartnerTelemetryConnectionString": "InstrumentationKey=5400e864-5abd-496c-837c-5fbea9914cb9;IngestionEndpoint=https://polandcentral-0.in.applicationinsights.azure.com/;LiveEndpoint=https://polandcentral.livediagnostics.monitor.azure.com/;ApplicationId=ccc6d211-3dd5-4ad1-8bec-db44e3dd9499",
   "doNotRunBcptTests": true,
   "doNotRunTests": true,
   "enableCodeCop": true,
