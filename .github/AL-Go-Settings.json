@@ -18,9 +18,5 @@
     "CreateContainerIfNotExist": true
   },
   "rulesetFile": "sp.ruleset.json",
-  "enableExternalRulesets": true,
-  "DeployToSP_LS_CENTRAL": {
-    "EnvironmentName": "SP_LS_CENTRAL",
-    "continuousDeployment": true
-  }  
+  "enableExternalRulesets": true
 }
