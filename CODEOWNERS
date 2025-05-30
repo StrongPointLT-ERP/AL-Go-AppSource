@@ -1,3 +1,5 @@
 * @StrongPointLT-ERP/bc-saas
 /.AL-Go/*
+/.github/workflows/*
 /.github/*
+*.md
