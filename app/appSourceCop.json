@@ -1,5 +1,7 @@
 {
     "mandatoryAffixes": [
         "SPU"
-    ]
+    ],
+    "validateObsoleteSymbols": true,
+    "validateInternalSymbols": true
 }

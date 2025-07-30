@@ -1,0 +1,36 @@
+{
+    "id": "", //TODO Use Create Guid to generate new id
+    "name": "SP XXX", //TODO Specify extension name, starting with SP
+    "publisher": "StrongPoint",
+    "version": "1.0.0.0",
+    "brief": "StrongPoint Extension for XXX",
+    "description": "StrongPoint Extension for XXX",
+    "privacyStatement": "https://go.microsoft.com/fwlink/?linkid=724009",
+    "EULA": "https://go.microsoft.com/fwlink/?linkid=2009120",
+    "help": "https://docs.microsoft.com/en-us/dynamics365/business-central/",
+    "url": "https://www.strongpoint.com",
+    "contextSensitiveHelpUrl": "https://learn.microsoft.com/en-us/",
+    "logo": "images/splogo_iVz_icon.ico",
+    "dependencies": [],
+    "screenshots": [],
+    "platform": "24.0.0.0",
+    "application": "24.0.0.0",
+    "runtime": "13.0",
+    "target": "Cloud",
+    "idRanges": [
+        {
+            "from": X, //TODO Specify the first ID in the range
+            "to": X //TODO Specify the last ID in the range
+        }
+    ],
+    "features": [
+        "NoImplicitWith",
+        "TranslationFile",
+        "GenerateCaptions"
+    ],
+    "resourceExposurePolicy": {
+        "allowDebugging": true,
+        "allowDownloadingSource": false,
+        "includeSourceInSymbolFile": false
+    }
+}
