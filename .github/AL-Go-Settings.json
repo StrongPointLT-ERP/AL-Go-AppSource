@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v7.2/settings.schema.json",
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v7.3/.Modules/settings.schema.json",
   "type": "AppSource App",
   "templateUrl": "https://github.com/microsoft/AL-Go-AppSource@main",
-  "templateSha": "b3a3eaef3f757c1dff5521fe21a618681ab53023",
+  "templateSha": "1c3e3241f43c58b418c8bfccedbc5a9a75869e39",
   "PartnerTelemetryConnectionString": "InstrumentationKey=5400e864-5abd-496c-837c-5fbea9914cb9;IngestionEndpoint=https://polandcentral-0.in.applicationinsights.azure.com/;LiveEndpoint=https://polandcentral.livediagnostics.monitor.azure.com/;ApplicationId=ccc6d211-3dd5-4ad1-8bec-db44e3dd9499",
   "doNotRunBcptTests": true,
   "doNotRunTests": true,
